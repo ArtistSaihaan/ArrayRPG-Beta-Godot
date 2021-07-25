@@ -1,0 +1,11 @@
+Model Information:
+* title:	Golden Apple stylized
+* source:	https://sketchfab.com/3d-models/golden-apple-stylized-c54fd173322e4e8286e170cf85697ddb
+* author:	toutounette (https://sketchfab.com/toutounette91)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Golden Apple stylized" (https://sketchfab.com/3d-models/golden-apple-stylized-c54fd173322e4e8286e170cf85697ddb) by toutounette (https://sketchfab.com/toutounette91) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/1x1x0.3.obj-b251c9c2c571da40943845fca2ba6b39.mesh"
+
+[deps]
+
+files=[ "res://.import/1x1x0.3.obj-b251c9c2c571da40943845fca2ba6b39.mesh" ]
+
+source_file="res://addons/array_rpg/Blocks/1x1x0.3.obj"
+dest_files=[ "res://.import/1x1x0.3.obj-b251c9c2c571da40943845fca2ba6b39.mesh", "res://.import/1x1x0.3.obj-b251c9c2c571da40943845fca2ba6b39.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

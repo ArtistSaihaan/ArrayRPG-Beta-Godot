@@ -1,0 +1,37 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://addons/array_rpg/player3dmovement.gd" type="Script" id=1]
+[ext_resource path="res://addons/array_rpg/inventory.gd" type="Script" id=2]
+[ext_resource path="res://addons/array_rpg/inventorydetection3d.gd" type="Script" id=3]
+
+[sub_resource type="CubeMesh" id=1]
+
+[sub_resource type="BoxShape" id=2]
+extents = Vector3( 1.1, 1.1, 1.1 )
+
+[sub_resource type="BoxShape" id=3]
+
+[node name="EmptyScene" type="Spatial"]
+
+[node name="PlayerCharacter3D" type="KinematicBody" parent="."]
+script = ExtResource( 1 )
+
+[node name="MeshInstance" type="MeshInstance" parent="PlayerCharacter3D"]
+mesh = SubResource( 1 )
+material/0 = null
+
+[node name="ItemDetector3D" type="Area" parent="PlayerCharacter3D"]
+script = ExtResource( 3 )
+
+[node name="CollisionShape" type="CollisionShape" parent="PlayerCharacter3D/ItemDetector3D"]
+shape = SubResource( 2 )
+
+[node name="CollisionShape" type="CollisionShape" parent="PlayerCharacter3D"]
+shape = SubResource( 3 )
+
+[node name="Inventory" type="Node" parent="PlayerCharacter3D"]
+script = ExtResource( 2 )
+
+[node name="DetectionRateTimer" type="Timer" parent="PlayerCharacter3D"]
+
+[node name="VulnerableTimer" type="Timer" parent="PlayerCharacter3D"]

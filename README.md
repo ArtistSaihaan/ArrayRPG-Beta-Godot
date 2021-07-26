@@ -13,3 +13,5 @@ Doors to change scenes
 Custom Weapon: Only weapon in beta is fist which has damage of 10 hearts. You could change the model, properties etc.
 Shop
 Better GUI
+
+Just an update: The Tutorial Video will be uploaded after some hours, :)

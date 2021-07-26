@@ -14,4 +14,5 @@ Custom Weapon: Only weapon in beta is fist which has damage of 10 hearts. You co
 Shop
 Better GUI
 
-Just an update: The Tutorial Video will be uploaded after some hours, :)
+Just an update: The Tutorial Video will be uploaded tomorrow, :)
+Wiki will be up after 1 hrs

@@ -8,10 +8,14 @@ Just watch the tutorial when it comes out and you are good to go.
 
 Note: This is in beta stage. Full version will have many features than this (probably on 1st August)
 
-Maybe in full version:
-Doors to change scenes
-Custom Weapon: Only weapon in beta is fist which has damage of 10 hearts. You could change the model, properties etc.
-Shop
-Better GUI
+Maybe in full version:  
+Doors to change scenes  
+Custom Weapon: Only weapon in beta is fist which has damage of 10 hearts. You could change the model, properties etc.  
+Shop  
+Better GUI  
+Mob Loot  
+Animations  
+
+
 
 Wiki is Up but not fully written right now
